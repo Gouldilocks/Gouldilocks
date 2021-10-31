@@ -30,7 +30,7 @@
 
 <summary>:zap: GitHub Stats</summary>
 
-[![Gouldilocks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gouldilocks)](https://github.com/anuraghazra/github-readme-stats)
+[![Gouldilocks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gouldilocks&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
