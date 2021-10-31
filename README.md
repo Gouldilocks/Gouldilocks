@@ -28,13 +28,11 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats</summary>
 
-  [![Gouldilocks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gouldilocks)](https://github.com/anuraghazra/github-readme-stats)
+[![Gouldilocks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gouldilocks)](https://github.com/anuraghazra/github-readme-stats)
 
 
-</details>
 
 [website]: cgould.net
 [linkedin]: https://www.linkedin.com/in/gouldilocks/
