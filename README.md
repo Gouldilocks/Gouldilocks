@@ -42,5 +42,5 @@
 
 
 
-[website]: cgould.net
+[website]: https://gouldilocks.github.io/cGould/
 [linkedin]: https://www.linkedin.com/in/gouldilocks/
