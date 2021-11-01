@@ -46,7 +46,7 @@
 
 <summary>:zap: One of my Favorite Projects! </summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gouldilocks&repo=Java-Grading-Script)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gouldilocks&repo=Java-Grading-Script)](https://github.com/Gouldilocks/Java-Grading-Script)
 
 
 
