@@ -44,6 +44,10 @@
 
 [![Gouldilocks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gouldilocks&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<summary>:zap: One of my Favorite Projects! </summary>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gouldilocks&repo=Java-Grading-Script)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [website]: https://gouldilocks.github.io/cGould/
