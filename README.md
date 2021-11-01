@@ -7,6 +7,10 @@
 - 📫 How to reach me: cagould@smu.edu
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love bodybuilding and lifting weights!
+- <img align="left" alt="Books picture" width="22px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/books_1f4da.png"/>I am a TA  at Lyle School of Engineering for: 
+    * Introduction to Engineering Design (A robotics course)
+    * Data Structures (taught in C++)
+    * Principles of Computer Science (taught in Java) 
 
 ### Connect with me:
 
