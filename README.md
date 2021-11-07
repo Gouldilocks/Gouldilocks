@@ -57,6 +57,8 @@
 <br />
 <br />
 
+
+
 <summary>:zap: I also love to play Typeracer! Here's my current stats:</summary>
 
 [<img align="left" alt="TyperacerStats" src="https://data.typeracer.com/misc/badge?user=loggityloglog" />][typeracer]
