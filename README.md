@@ -45,12 +45,23 @@
 
 [![Gouldilocks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gouldilocks&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<summary>:zap: One of my Favorite Projects! </summary>
+<summary>:zap: One of my Favorite Projects!</summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gouldilocks&repo=Java-Grading-Script)](https://github.com/Gouldilocks/Java-Grading-Script)
+[<img align="left" alt="gradingScript" src="https://github-readme-stats.vercel.app/api/pin/?username=Gouldilocks&repo=Java-Grading-Script" />][gradingscript]
 
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
+<summary>:zap: I also love to play Typeracer! Here's my current stats:</summary>
+
+[<img align="left" alt="TyperacerStats" src="https://data.typeracer.com/misc/badge?user=loggityloglog" />][typeracer]
+
+[typeracer]: https://play.typeracer.com
 [website]: https://gouldilocks.github.io/cGould/
 [cpluspluswebsite]: https://www.cplusplus.com
 [cwebsite]: https://en.cppreference.com/w/
@@ -67,3 +78,4 @@
 [terminal]: https://en.wikipedia.org/wiki/Linux_console
 [cmake]: https://cmake.org
 [linkedin]: https://www.linkedin.com/in/gouldilocks/
+[gradingscript]: https://github.com/Gouldilocks/Java-Grading-Script
