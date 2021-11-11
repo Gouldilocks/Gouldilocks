@@ -36,6 +36,8 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 [<img align="left" alt="cmake" width="26px" src="https://static-00.iconduck.com/assets.00/cmake-icon-512x511-fvtgv3ne.png" />][cmake]
+[<img align="left" alt="arduino" width="26px" src="https://miro.medium.com/max/1024/1*grcYwW_zgkpzP0VEsh3vOg.png" />][arduino]
+[<img align="left" alt="vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" />][vim]
 
   
 <br />
@@ -63,6 +65,8 @@
 
 [<img align="left" alt="TyperacerStats" src="https://data.typeracer.com/misc/badge?user=loggityloglog" />][typeracer]
 
+[vim]: https://www.vim.org
+[arduino]: https://www.arduino.cc
 [typeracer]: https://play.typeracer.com
 [website]: https://gouldilocks.github.io/cGould/
 [cpluspluswebsite]: https://www.cplusplus.com
