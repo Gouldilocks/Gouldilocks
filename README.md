@@ -9,9 +9,10 @@
 - ⚡ Fun fact: I love bodybuilding and lifting weights!
 - <img align="left" alt="Books picture" width="22px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/books_1f4da.png"/>I am a TA  at Lyle School of Engineering for: 
 
-   * Introduction to Engineering Design (A robotics course)
-   * Data Structures (taught in C++)
-   * Principles of Computer Science (taught in Java) 
+   * Introduction to Engineering Design (A robotics course): Spring 2020, Fall 2021, Spring 2021
+   * Data Structures (taught in C++): Fall 2021, Spring 2021, Spring 2022
+   * Principles of Computer Science (taught in Java): Fall 2021, Spring 2021
+   * Principle of Computer Science II (taught in C++): Spring 2022
 
 ### Connect with me:
 
