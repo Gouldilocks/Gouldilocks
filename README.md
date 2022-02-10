@@ -1,6 +1,6 @@
 # Hello there, I'm Christian Gould! - aka Gouldilocks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working on an implementation of a [vending machine](https://github.com/Gouldilocks/Vmachine) for ENGR 1357 (A course I TA for) Ask me about it!
+- 🔭 I've recently completed an implementation of a [vending machine](https://github.com/Gouldilocks/Vmachine) for ENGR 1357 (A course I TA for) Ask me about it!
 - 🌱 I’m currently learning intricacies of Python3
 - 👯 I’m looking to collaborate on ways to script anything and everything I can to make our lives easier
 - 💬 Ask me about my love for Unix / Linux operating systems!
