@@ -1,18 +1,18 @@
 # Hello there, I'm Christian Gould! - aka Gouldilocks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I've recently completed an implementation of a [vending machine](https://github.com/Gouldilocks/Vmachine) for ENGR 1357 (A course I TA for) Ask me about it!
-- 🌱 I’m currently learning intricacies of Python3
-- 👯 I’m looking to collaborate on ways to script anything and everything I can to make our lives easier
+- 🌱 I’m currently learning intricacies of Python and Pandas
+- 👯 I’m looking to collaborate on ways to script anything and everything I can, to make our lives easier
 - 💬 Ask me about my love for Unix / Linux operating systems!
 - 📫 How to reach me: cagould@smu.edu
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I love bodybuilding and lifting weights!
+- ⚡ Fun fact: I love bodybuilding and calligraphy!
 - <img align="left" alt="Books picture" width="22px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/books_1f4da.png"/>I am a TA / been a TA at Lyle School of Engineering for: 
 
    * Introduction to Engineering Design (A robotics course): Spring 2020, Fall 2021, Spring 2021
    * Data Structures (taught in C++): Fall 2021, Spring 2021, Spring 2022
    * Principles of Computer Science (taught in Java): Fall 2021, Spring 2021
-   * Principle of Computer Science II (taught in C++): Spring 2022
+   * Principles of Computer Science II (taught in C++): Spring 2022, May 2022
 
 ### Connect with me:
 
