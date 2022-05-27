@@ -1,5 +1,5 @@
 # Hello there, I'm Christian Gould! - aka Gouldilocks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+[Check Out My Website!](cgould.net)
 - I'm always working on a new project for fun! [Here's What I'm Currently Working On](https://github.com/Gouldilocks/sort_visualization_tool)
 
 - 🔭 I've recently completed an implementation of a [vending machine](https://github.com/Gouldilocks/Vmachine) for ENGR 1357 (A course I TA for) Ask me about it!
