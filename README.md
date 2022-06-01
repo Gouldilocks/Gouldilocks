@@ -71,7 +71,7 @@
 [vim]: https://www.vim.org
 [arduino]: https://www.arduino.cc
 [typeracer]: https://play.typeracer.com
-[website]: https://gouldilocks.github.io/cGould/
+[website]: https://gouldilocks.github.io/personal_webpage/
 [cpluspluswebsite]: https://www.cplusplus.com
 [cwebsite]: https://en.cppreference.com/w/
 [pythonwebsite]: https://docs.python.org/3/
