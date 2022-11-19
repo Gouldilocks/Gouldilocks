@@ -15,6 +15,7 @@
    * Data Structures (taught in C++): Fall 2021, Spring 2021, Spring 2022
    * Principles of Computer Science (taught in Java): Fall 2021, Spring 2021
    * Principles of Computer Science II (taught in C++): Spring 2022, May 2022
+   * Introduction to Computer Science (taught in python): Fall 2022
 
 ### Connect with me:
 
